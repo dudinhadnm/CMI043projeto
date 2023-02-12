@@ -1,0 +1,23 @@
+>> otimizacao
+
+x0 =
+
+  -100
+   -50
+
+Metodo do gradiente
+x =
+
+   3.3333
+   0.6667
+
+k = 1
+nGrad = 3.1776e-14
+Metodo dos gradientes conjugados
+x2 =
+
+   3.3333
+   0.6667
+
+k2 = 1
+nGrad = 3.1776e-14
